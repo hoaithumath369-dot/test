@@ -5,6 +5,8 @@
 ##### H5
 ###### H6
 
+[link code trực tuyến Markdowwn](https://www.jotbird.com/app#h6)
+
 Ngoài ra, đối với H1 và H2, kiểu gạch chân:  
 ~~ta là siêu nhân~~
 
