@@ -61,6 +61,24 @@ gfhfgh
 
 fgfdgdfg
 
+```diff
+- CẢNH BÁO: Dòng này sẽ có màu đỏ (Đại diện cho code bị xóa / Lỗi)
++ THÀNH CÔNG: Dòng này sẽ có màu xanh (Đại diện cho code mới / Chạy tốt)
+! LƯU Ý: Một số nền tảng hỗ trợ dấu chấm than cho màu cam.
+# Thông tin: Dòng này thường có màu xám.
+
+<p style="color: blue;">
+Toàn bộ đoạn văn này sẽ có màu xanh dương. Bạn có thể viết dài bao nhiêu tùy thích ở đây mà không cần bọc từng chữ.
+</p>
+
+Bạn có thể dùng thẻ span: <span style="background-color: yellow;">Đoạn này được tô nền vàng</span>.
+Hoặc dùng thẻ mark của HTML5: <mark>Đoạn này cũng được highlight</mark>.
+
+Đây là <span style="color: red;">chữ màu đỏ</span> và đây là <span style="color: #00FF00;">chữ màu xanh lá</span>.
+```
+helooo  
+rrrytrytrrty
+
 
 
 
