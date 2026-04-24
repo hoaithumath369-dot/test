@@ -161,7 +161,12 @@ A very long sentence.
 bobbyhadz.com
 t
 hình ảnh topic 1:  
-![hinh 1](file_images/z7697155247211_d3dead1354cb33516029ca0927cf1ba6.jpg)
+![hinh 1](file_images/speaking_test_1.jpg)
+Bài nói mẫu: Chủ đề Tết (Khoảng 45 giây)  
+Mở đầu: My favourite holiday is Tet. It is the Vietnamese New Year.  
+Thời gian & Địa điểm: It happens in Spring. We celebrate it everywhere in Vietnam.  
+Hoạt động: Before Tet, I clean my house. During Tet, I eat Banh Chung, visit my family, and get lucky money.  
+Lý do thích: I love Tet because I have free time. I can relax and be happy with my family.  
 ![hình ảnh 2](https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-gif-anime-dep_054957453.gif)
 
 ![hinh 3](file_images/spaek_test_3.jpg)
