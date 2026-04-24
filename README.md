@@ -59,6 +59,11 @@ _từ cần in nghiêng_
 
 gfhfgh
 
+## Hướng dẫn tô màu
+[tô màu 1](https://www.w3tutorials.net/blog/how-to-apply-color-on-text-in-markdown/)
+[tô màu 2](https://bobbyhadz.com/blog/markdown-change-color-of-text)
+[tô màu 3](https://stackoverflow.com/questions/35465557/how-to-apply-color-on-text-in-markdown)
+
 fgfdgdfg
 
 ```diff
@@ -98,7 +103,63 @@ int main() {
 ```
 đây là code C
 
+<style>
+blue {
+  color: lightblue;
+}
+
+red {
+  color: red;
+}
+
+green {
+  color: lightgreen;
+}
+</style>
+
+A <blue>very</blue> long <red>sentence</red>.
+
+<green>bobbyhadz</green>.com
+
+✅️ **Check**, 💡 **Idea**, 📝 **Note**,
+⚠️ **Warning**, ❗️**Important**, 📌 **Important**,
+🚨 **Warning**, ⛔️ **Error**, ❌ **Error**
+
+:heavy_check_mark: **Check**, :bulb: **Idea**, :pencil: **Note**,
+:warning: **Warning**, :exclamation: **Important**, :pushpin: **Important**,
+:rotating_light: **Warning**, :no_entry: **Error**, :x: **Error**
+
+
+
 A very <span style='color: red;'>long</span> sentence.
+
+<span style="color: #ff0000;">This text is red</span>  
+<span style="color: rgb(0, 255, 0);">This text is green</span>  
+<span style="color: blue;">This text is blue</span>  
+
+Bước 1: Thêm CSS vào dự án của bạn (ví dụ: ):styles.css
+
+.text-red { color: #e74c3c; }  
+.text-blue { color: #3498db; }  
+Bước 2: Sử dụng lớp trong Markdown với:<span>
+
+<span class="text-red">Danger: This action is irreversible</span>  
+<span class="text-blue">Info: New update available</span> 
+
+/* Use CSS value coloring */  
+color: hotpink; /* "hotpink" renders in pink */  
+background: gold; /* "gold" renders in gold */  
+
+<style>
+  body {
+    color: red;
+  }
+</style>
+
+A very long sentence.
+
+bobbyhadz.com
+
 
 
 
